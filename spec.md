@@ -1,14 +1,14 @@
 # Spec Document
 
 ### Concept: ###
-Role playing game. The player gets more powerful by gathering cristal fragments dispersed in the world, with a clear objective: defeat the evil (ultimate boss fight) and help the inhabitants of the world so they can live peacefully.
+Role playing game. The player gets more powerful by gathering cristal fragments dispersed in the world, with a clear objective: defeat the evil (the ultimate boss fight) and help the inhabitants of the world so they can live peacefully.
 The player will be able to visit a village, a forest and a dungeon map. Real-time combats.
 
 ### Customers : ###
 Casual gamers, RPG lovers, us.
 
 ### Persona: ###
-Rufus is a young adult with a fulltime job. He loves RPG games. He wants to play a lot of RPG games but he doesn't have enough time between his work & life to play long/hardcore games. He is searching for a game that can fulfill his love for the genre and his obligations.
+Rufus is a young adult with a full-time job. He loves RPG games. He wants to play a lot of RPG games but he doesn't have enough time between his work & social life to play long/hardcore games. He seeks a game that can fulfill his love for the genre and his life obligations.
 
 ### Pain point: ###
 Most RPG are time sinking games. He can't keep playing such chronophage games, no matter how good they are.
