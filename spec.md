@@ -1,46 +1,47 @@
-Spec Document
+# Spec Document
 
-Name: Shan
-Concept: RPG game, but final est de vaincre tout les boss, recuperer des morceaux de cristaux pour devenir plus forts et aider les villageois a vivre dans un environnement de paix et d'amour sans monstres mechants. Evolue dans 3 environnements differents -> village, foret, donjon.
+### Concept: ###
+Role playing game. The player gets more powerful by gathering cristal fragments dispersed in the world, with a clear objective: defeat the evil (ultimate boss fight) and help the inhabitants of the world so they can live peacefully.
+The player will be able to visit a village, a forest and a dungeon map. Real-time combats.
 
-Customer: 
-Casual gamers, RPG lovers, us
+### Customers : ###
+Casual gamers, RPG lovers, us.
 
-Persona:
-Jeune actif, aime les jeux inde, RPG, retro. Vu qu'il aime les RPG et qu'il a plus le temps a cause de ses activites, il aimerait trouver un jeu qui consilierait ses envies et ses contraintes. 
+### Persona: ###
+Rufus is a young adult with a fulltime job. He loves RPG games. He wants to play a lot of RPG games but he doesn't have enough time between his work & life to play long/hardcore games. He is searching for a game that can fulfill his love for the genre and his obligations.
 
-Pain point:
-Les RPG demandent trop d'insvestissement de temps.
+### Pain point: ###
+Most RPG are time sinking games. He can't keep playing such chronophage games, no matter how good they are.
 
-User scenarios:
-Rodolphe
-- Rentre du boulot
-- Aimerait se detendre en faisant ce qu'il aime le plus dans la vie: JOUER
-- Plutôt que de jouer aux RPG traditionnels chronophages, il achete Shan a bas prix
-- Il retrouve tout ce qu'il aime chez les rpg, mais dans un format plus accessible
-- Plus besoin de veiller tard pour profiter d'un vrai RPG
-- Il est plus productif au travail et obtient une promotion !
-- Il passe plus de temps avec sa femme et fait un enfant
-- Plus tard, il partagera son amour du jeu avec son fils
+### User scenarios: ###
 
-Goals:
-Proposer une experience purement RPG dans un format plus accessible (moins chronophage). 
+- Rufus comes back home after the usual day at work
+- He wants to relax doing what he loves: playing video games
+- Instead of playing a popular and very time-consuming RPG he bought our game at a low, appealing price
+- He experiences a game with traditionnal RPG features, but in a more accessible package that doesn't require or make him play for a long period of time
+- His late night video game sessions are no longer needed to enjoy his passion
+- Rufus becomes more productive at work and eventually gets promoted!
+- He has more time for his family, eventually a baby is coming! Rufus will share his love for video games with his child.
+- They live happily ever after! :-)
 
-Non-goals:
-Duree de vie trop longue, multitude de quetes annexes, grosse difficulte, grinding
+### Goals: ###
+Offer a pure RPG experience while decreasing the time consuming activities within the game such as farming & grinding.
 
-Risk:
-Ne pas proposer assez de contenu 
+### Non-goals: ###
+Very long game with tons of content left and right. High difficulty. Grinding.
 
-Interactions:
-- Deplacer le heros
-- Attaquer des animaux sauvages, des mechants, des fantomes
-- Presence d'un boss esprit dans un donjon
-- Parler aux habitants du village
-- Lancer des quetes
-- Consulter menu
-- Recuperer des fragments de cristaux pour augmenter sa puissance
+### Risk: ###
+Not offering enough content to the players.
 
-Priority:
-Deplacements du heros fluides
+### Interactions: ###
+- Move the main character within the world, explore
+- Gather cristal fragments throughout the world to increase our power
+- Talk to other characters in the game
+- Questing
+- Attack wild animals, mean guys and ghosts
+- Boss fight with an evil spirit
+- Menu (sound & video parameters)
+
+### Priority: ###
+First priority is implement a smooth gameplay for the player through the character's movements
 
